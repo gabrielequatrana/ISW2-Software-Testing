@@ -1,6 +1,6 @@
 # ISW2-Software-Testing
 
-## JCS   [![Build Status](https://travis-ci.com/gabrielequatrana/JCSTest.svg?branch=main)](https://travis-ci.com/gabrielequatrana/JCSTest)
+## JCS   [![Build Status](https://app.travis-ci.com/gabrielequatrana/JCSTest.svg?branch=main)](https://app.travis-ci.com/gabrielequatrana/JCSTest)
 Repository progetto: https://github.com/gabrielequatrana/JCSTest
   
 Esecuzione dei test e analisi automatica del coverage tramite Jacoco
