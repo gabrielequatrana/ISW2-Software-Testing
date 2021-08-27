@@ -1,0 +1,2 @@
+bookkeeper/bookkeeper-server/src/test/java/org/apache/bookkeeper/tests
+tajo/tajo-core/src/test/java/org/apache/tajo/tests
